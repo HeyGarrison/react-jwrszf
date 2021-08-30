@@ -2,7 +2,6 @@ import React from 'react';
 import './style.css';
 
 export default function App() {
-  console.log(123);
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
